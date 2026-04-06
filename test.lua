@@ -1,4 +1,3 @@
-wait(20)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/createdreallol/yessuh/refs/heads/main/gui.lua"))()
 wait(1)
 loadstring(game:HttpGet("https://raw.smokingscripts.org/vertex.lua"))()
