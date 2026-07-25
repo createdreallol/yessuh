@@ -1,4 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/createdreallol/yessuh/refs/heads/main/gui.lua"))()
-wait(1)
-loadstring(game:HttpGet("https://raw.smokingscripts.org/vertex.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/createdreallol/yessuh/refs/heads/main/mm2.lua"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/6cda7723ea3003c47f81f6980086e7d45a542a883272afb2c6aff811733e855e/download"))()
